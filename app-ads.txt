@@ -1,4 +1,4 @@
-# Updated at 2025/04/16 09:34:15
+# Updated at 2025/04/16 16:17:57
 
 # Admob
 google.com,pub-3928497305603055,DIRECT,f08c47fec0942fa0
@@ -566,3 +566,6 @@ video.unrulymedia.com,322585001,RESELLER
 xandr.com,13799,RESELLER
 xandr.com,14082,RESELLER
 zmaticoo.com,5135655,RESELLER
+
+# Admob
+google.com,pub-4548575675483897,DIRECT,f08c47fec0942fa0
